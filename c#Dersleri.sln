@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders1", "ders1\ders1.csproj", "{F9265659-6AB2-4618-AE6F-828E1F141F83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders2_Variables", "ders2_Variables\ders2_Variables.csproj", "{C005A838-D89C-4489-AE9D-F5D524AD1632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9265659-6AB2-4618-AE6F-828E1F141F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9265659-6AB2-4618-AE6F-828E1F141F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9265659-6AB2-4618-AE6F-828E1F141F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9265659-6AB2-4618-AE6F-828E1F141F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C005A838-D89C-4489-AE9D-F5D524AD1632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C005A838-D89C-4489-AE9D-F5D524AD1632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C005A838-D89C-4489-AE9D-F5D524AD1632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C005A838-D89C-4489-AE9D-F5D524AD1632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF2935AB-51E1-4F3E-8DB6-19CA5AF23A02}
+	EndGlobalSection
+EndGlobal
