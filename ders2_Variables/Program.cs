@@ -26,6 +26,8 @@ namespace ders2_Variables
             //            Console.WriteLine("---- Domates Birim Fiyatı: " + tomatoPrice+ " TL");
 
             //            Console.WriteLine();
+
+            //nsns
             //            Console.WriteLine();
 
             //            double appleGram = 1.245;
