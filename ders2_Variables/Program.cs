@@ -17,6 +17,7 @@ namespace ders2_Variables
             //            double strawberryPrice = 45;
             //            double potatoPrice = 9.74;
             //            double tomatoPrice = 6.88;
+            //deneme dataası eklendi
 
             //            Conxsole.WriteLine("---- Elma Birim Fiyatı: " + applePrice + " TL");
             //            Console.WriteLine("---- Portakal Birim Fiyatı: " + orangePrice + " TL");
