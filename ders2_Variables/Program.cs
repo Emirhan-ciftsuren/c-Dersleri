@@ -18,7 +18,7 @@ namespace ders2_Variables
             //            double potatoPrice = 9.74;
             //            double tomatoPrice = 6.88;
 
-            //            Console.WriteLine("---- Elma Birim Fiyatı: " + applePrice + " TL");
+            //            Conxsole.WriteLine("---- Elma Birim Fiyatı: " + applePrice + " TL");
             //            Console.WriteLine("---- Portakal Birim Fiyatı: " + orangePrice + " TL");
             //            Console.WriteLine("---- Çilek Birim Fiyatı: " + strawberryPrice + " TL");
             //            Console.WriteLine("---- Patates Birim Fiyatı: " + potatoPrice + " TL");
