@@ -11,29 +11,33 @@ namespace ders3
         static void Main(string[] args)
         {
             #region if else
+              
+            //string capital, country;
 
-            string capital, country;
 
+            //Console.Write("Ülkeyi giriniz: ");
+            //Console.Write("Ülkeyi giriniz: ");
+            //Console.Write("Ülkeyi giriniz: ");
+            //country = Console.ReadLine();
 
-            Console.Write("Ülkeyi giriniz: ");
-            country = Console.ReadLine();
+            //Console.Write("Başkenti giriniz: ");
+            //capital = Console.ReadLine();
+            //Console.WriteLine();
+            //Console.WriteLine();
 
-            Console.Write("Başkenti giriniz: ");
-            capital = Console.ReadLine();
-            Console.WriteLine();
-            Console.WriteLine();
-
-            if (capital == "ankara" & country == "türkiye")
-            {
-                Console.WriteLine("Veriler doğrulandı");
-            }
-            else
-            {
-                Console.WriteLine("Hatalı bilgi! ");
-            }
+            //if (capital == "ankara" & country == "türkiye")
+            //{
+            //    Console.WriteLine("Veriler doğrulandı");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Hatalı bilgi! ");
+            //}
 
 
             #endregion
+
+            #region 
             Console.Read();
 
         }
