@@ -12,14 +12,16 @@ namespace ders4_Loops
         {
             #region for
 
-            int bacterium=1;
+            int bacterium = 1;
             for (int i = 1; i <= 24; i++)
             {
                 bacterium *= 2;
-                Console.WriteLine(i+" Saat sonunda "+bacterium+" bakteri bulunur");
+                Console.WriteLine(i + " Saat sonunda " + bacterium + " bakteri bulunur");
             }
             Console.Read();
             #endregion
+
+
         }
     }
 }
