@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ders4_Loops
-{  
+{
     internal class Program
     {
         static void Main(string[] args)
