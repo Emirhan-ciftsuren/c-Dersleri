@@ -13,9 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders4_Loops", "ders4_Loops\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders5_loops2", "ders5\ders5_loops2.csproj", "{84FE1832-1C37-4B60-B10E-5CF6FC04BCD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders6_diziler", "ders6_diziler\ders6_diziler.csproj", "{6C30E8EA-FA7A-48BA-8C92-952AD30F944E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders6_arrays", "ders6_diziler\ders6_arrays.csproj", "{6C30E8EA-FA7A-48BA-8C92-952AD30F944E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders7_foreachLoops", "ders7_foreachLoops\ders7_foreachLoops.csproj", "{6377A56E-1E30-40B2-B114-B3DF30888EF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders8_methods", "ders8_methods\ders8_methods.csproj", "{92989484-D867-45B0-8639-DA09702DFDDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{6377A56E-1E30-40B2-B114-B3DF30888EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6377A56E-1E30-40B2-B114-B3DF30888EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6377A56E-1E30-40B2-B114-B3DF30888EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92989484-D867-45B0-8639-DA09702DFDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92989484-D867-45B0-8639-DA09702DFDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92989484-D867-45B0-8639-DA09702DFDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92989484-D867-45B0-8639-DA09702DFDDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
