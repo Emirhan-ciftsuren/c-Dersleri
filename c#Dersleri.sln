@@ -3,21 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders1", "ders1\ders1.csproj", "{F9265659-6AB2-4618-AE6F-828E1F141F83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders01", "ders1\ders01.csproj", "{F9265659-6AB2-4618-AE6F-828E1F141F83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders2_Variables", "ders2_Variables\ders2_Variables.csproj", "{C005A838-D89C-4489-AE9D-F5D524AD1632}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders02_Variables", "ders2_Variables\ders02_Variables.csproj", "{C005A838-D89C-4489-AE9D-F5D524AD1632}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders3_if.else", "ders3\ders3_if.else.csproj", "{BC07CF71-DA0C-4B5C-8EBD-5ADFD4096306}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders03_if.else", "ders3\ders03_if.else.csproj", "{BC07CF71-DA0C-4B5C-8EBD-5ADFD4096306}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders4_Loops", "ders4_Loops\ders4_Loops.csproj", "{BE462295-EEA5-46A9-9E83-49A68A3EA7CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders04_Loops", "ders4_Loops\ders04_Loops.csproj", "{BE462295-EEA5-46A9-9E83-49A68A3EA7CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders5_loops2", "ders5\ders5_loops2.csproj", "{84FE1832-1C37-4B60-B10E-5CF6FC04BCD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders05_loops2", "ders5\ders05_loops2.csproj", "{84FE1832-1C37-4B60-B10E-5CF6FC04BCD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders6_arrays", "ders6_diziler\ders6_arrays.csproj", "{6C30E8EA-FA7A-48BA-8C92-952AD30F944E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders06_arrays", "ders6_diziler\ders06_arrays.csproj", "{6C30E8EA-FA7A-48BA-8C92-952AD30F944E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders7_foreachLoops", "ders7_foreachLoops\ders7_foreachLoops.csproj", "{6377A56E-1E30-40B2-B114-B3DF30888EF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders07_foreachLoops", "ders7_foreachLoops\ders07_foreachLoops.csproj", "{6377A56E-1E30-40B2-B114-B3DF30888EF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders8_methods", "ders8_methods\ders8_methods.csproj", "{92989484-D867-45B0-8639-DA09702DFDDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders08_methods", "ders8_methods\ders08_methods.csproj", "{92989484-D867-45B0-8639-DA09702DFDDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders09_DatabaseProject", "ders9_sqlVeritabanı\ders09_DatabaseProject.csproj", "{144F458E-D59D-4EED-8226-FFB639CC3C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders10_DatabaseCrud", "ders10_DatabaseCrud\ders10_DatabaseCrud.csproj", "{BB1D76A6-F835-4246-BCCC-1664BE8F5F51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{92989484-D867-45B0-8639-DA09702DFDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92989484-D867-45B0-8639-DA09702DFDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92989484-D867-45B0-8639-DA09702DFDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{144F458E-D59D-4EED-8226-FFB639CC3C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144F458E-D59D-4EED-8226-FFB639CC3C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144F458E-D59D-4EED-8226-FFB639CC3C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144F458E-D59D-4EED-8226-FFB639CC3C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB1D76A6-F835-4246-BCCC-1664BE8F5F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1D76A6-F835-4246-BCCC-1664BE8F5F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1D76A6-F835-4246-BCCC-1664BE8F5F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1D76A6-F835-4246-BCCC-1664BE8F5F51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

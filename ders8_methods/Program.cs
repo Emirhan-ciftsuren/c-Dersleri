@@ -26,14 +26,14 @@ namespace ders8_methods
             #endregion
 
             #region geriye döndüren parametreli metodlar
-             int MyMethod(int x, int y)
-            {
-                return x + y;
-            }
+            // int MyMethod(int x, int y)
+            //{
+            //    return x + y;
+            //}
 
-          
-            
-                Console.WriteLine(MyMethod(5, 3));
+
+
+            //    Console.WriteLine(MyMethod(5, 3));
 
 
 
